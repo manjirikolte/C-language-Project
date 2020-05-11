@@ -18,4 +18,3 @@ Firstly the main menu is  main menu which is made up of:
 
 ![ScreenShot of Options](https://github.com/manjirikolte/C-language-Project/blob/master/screenShot/Screen1.png)
 
-**Note:** Account for admin is predefine, admin can access account by directly enter password i.e 12345

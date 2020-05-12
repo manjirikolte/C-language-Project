@@ -9,7 +9,7 @@ The programming language that will be used in coding this work is C programming 
 
 ## Introduction:
 This application provides an ease to buy some products and do some sort of operations like create account, adding more quantity of products,deleting of product from cart, completing payment and accessing the stock information of the shopping mart.<br>
-Firstly the main menu is  main menu which is made up of:<br>
+The main menu which is made up of:<br>
 **CATEGORY:** When we choose one or two options then we can buy the available products with the quantities we are required with<br>
 **DISPLAY:** When we choose option three then we can view our cart, i.e. what we have bought and we can also delete the item from cart if required, once we proceed to purches cart will be empty.<br>
 **ORDER:** This allows you to purches items that you added in cart.<br>

@@ -23,6 +23,9 @@ The main menu which is made up of:<br>
 
 <img src="https://github.com/manjirikolte/C-language-Project/blob/master/screenShot/screenshot%20adminAccount.png" width="400" height="260">
 
+## License
+License under 
+
 <img src="https://github.com/manjirikolte/C-language-Project/blob/master/screenShot/stocks%20info.png" width="400" height="260">
 
 

@@ -17,8 +17,11 @@ The main menu which is made up of:<br>
 **EXIT:** If the user want to go for break or is a closing time for the day work then this module will allows the user to quit from the system and close.
 
 <img src="https://github.com/manjirikolte/C-language-Project/blob/master/screenShot/Screen1.png" width="400" height="260">
-<img src="https://github.com/manjirikolte/C-language-Project/blob/master/screenShot/cart%20item.png" width="400" height="260">
+<img src="https://github.com/manjirikolte/C-language-Project/blob/master/screenShot/Screen2.png" width="400" height="260">
+
 <img src="https://github.com/manjirikolte/C-language-Project/blob/master/screenShot/Item%20list.png" width="400" height="260">
+
+<img src="https://github.com/manjirikolte/C-language-Project/blob/master/screenShot/cart%20item.png" width="400" height="260">
 
 <img src="https://github.com/manjirikolte/C-language-Project/blob/master/screenShot/COD.png" width="400" height="260">
 
